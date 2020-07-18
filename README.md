@@ -1,2 +1,2 @@
 # hello-world
-This is where i begin to be a legend.
+This is where I begin to be a legend.
